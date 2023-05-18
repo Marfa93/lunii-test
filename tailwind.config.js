@@ -11,7 +11,7 @@ module.exports = {
         bgBlue: "#3f96f3",
         bgBlueAlt: "#2f76d2",
         bgButton: "#fceb4f",
-        bgErrorMsg: "#fceb4f",
+        bgErrorMsg: "#ffcfd5",
         colorErrorMsg: "#983e4c",
         bgSuccessMsg: "#c6ebd4",
         colorSuccessMsg: "#44865c",
