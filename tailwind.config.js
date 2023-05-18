@@ -15,6 +15,7 @@ module.exports = {
         colorErrorMsg: "#983e4c",
         bgSuccessMsg: "#c6ebd4",
         colorSuccessMsg: "#44865c",
+        colorHr: "#66a3dd"
       }
     },
   },
